@@ -9,6 +9,8 @@
 
 	<?php
 	
+	echo "hallo"; 
+	
 	 // tipe data array
 	
 	// $angka = [5, 10, 2, 3, 9]
